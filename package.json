@@ -1,0 +1,16 @@
+{
+  "name": "request-fields-validator",
+  "version": "1.0.0",
+  "description": "Validation of json fields in request.body",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fields-validation",
+    "request.body",
+    "validator"
+  ],
+  "author": "Mohsen2050",
+  "license": "ISC"
+}
